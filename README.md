@@ -4,6 +4,10 @@ Hello Woorrrrrrrrllllllllldddddddddddddd!!!!!!!!!!!!!!!!!!
 
 Whoops! Someone is playing with the keyboards I guess
 
+## Badge
+
+[![Run on Repl.it](https://repl.it/badge/github/3061LRTAGSPKJMORMRT/the-cult-online)](https://repl.it/github/3061LRTAGSPKJMORMRT/the-cult-online)
+
 ## _Introduction_
 
 Hello Kachikawawa

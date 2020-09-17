@@ -1,0 +1,18 @@
+-12/05/2020
+
+Ashish: Hello
+Aqua: Hello
+Ashish: Okay, so this is the file we will use to communicate. 
+Aqua: Sure
+Aqua: What to do now ...
+
+-13/05/2020
+Aqua: Please see the iamge sent to you on discord
+Aqua: Also what task shall I do? Did you talk to phillip?
+
+-18/05/2200
+Aqua: bruh
+
+-9.june.2020
+added - enter_room.html / enter_room.js / chat_Room.js / style_Room.css /
+updated package in package.json
